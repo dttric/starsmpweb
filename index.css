@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+header {
+    font-size: 49px;
+    background-color: #153d1f;
+    border-bottom: 1px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#ymoney {
+    width: 50%;
+    height: 50%;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+    margin-left: 77%;
+}
+
+#name {
+    color: white;
+    background-color: orangered;
+    margin-right: 3%;
+    border-left: solid;
+    border-right: solid;
+    border-color: orangered;
+    border-width: 3px 3px 3px 3px;
+}
+
+#ip {
+    color: white;
+    background-color: orangered;
+    margin-left: 40%;
+}
+
+#vanilla {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5%;
+    margin-right: 40%;
+    color: white;
+    border: 1px solid;
+    border-width: 1px;
+    border-left-width: 10px;
+    border-color: #153d1f;
+    background-color: #153d1f;
+    font-size: 20px;
+}
+
+#spic {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5%;
+    margin-right: 40%;
+    color: white;
+    border: 1px solid;
+    border-width: 1px;
+    border-left-width: 10px;
+    border-color: #153d1f;
+    background-color: #153d1f;
+    font-size: 20px;
+}
+
+footer {
+    margin-top: auto;
+    background-color: #153d1f;
+    font-size: 20px;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
