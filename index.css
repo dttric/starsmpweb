@@ -4,6 +4,10 @@
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+body {
+    background-image: url(https://raw.githubusercontent.com/dttric/fruitycraft/main/background.jpg);
+}
+
 header {
     font-size: 49px;
     background-color: #153d1f;
