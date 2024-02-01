@@ -33,18 +33,12 @@ img {
 
 #name {
     color: white;
-    background-color: orangered;
+    background-color: #ed4830;
     margin-right: 3%;
     border-left: solid;
     border-right: solid;
     border-color: orangered;
     border-width: 3px 3px 3px 3px;
-}
-
-#ip {
-    color: white;
-    background-color: orangered;
-    margin-left: 40%;
 }
 
 #vanilla {
