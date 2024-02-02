@@ -57,6 +57,14 @@ body {
         border-top-width: -5px;
     }
 
+    .overview_h1 {
+        font-size: 50px;
+    }
+
+    .overview_lay2 {
+        font-size: 40px;
+    }
+
     #logo {
         margin-top: -15%;
         float: right;
@@ -99,15 +107,6 @@ body {
         border-left-width: 10px;
         border-color: #153d1f;
         background-color: #153d1f;
-    }
-    
-
-    .overview_h1 {
-        font-size: 50px;
-    }
-
-    .overview_lay2 {
-        font-size: 40px;
     }
     
     footer {
